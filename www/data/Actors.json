@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"mc_sementara","characterIndex":0,"characterName":"mc_sementara_base","classId":1,"equips":[1,0,0,3,0],"faceIndex":0,"faceName":"mc_sementara","traits":[{"code":51,"dataId":1,"value":1},{"code":51,"dataId":7,"value":1},{"code":51,"dataId":12,"value":1},{"code":52,"dataId":1,"value":1},{"code":52,"dataId":2,"value":1},{"code":52,"dataId":3,"value":1},{"code":52,"dataId":4,"value":1},{"code":52,"dataId":5,"value":1},{"code":52,"dataId":6,"value":1}],"initialLevel":1,"maxLevel":30,"name":"MC","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$rinbase","classId":1,"equips":[5,1,2,3,4],"faceIndex":6,"faceName":"testosteron","traits":[{"code":51,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Rin","nickname":"","note":"","profile":""}
+]
